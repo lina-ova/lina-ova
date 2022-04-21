@@ -1,7 +1,6 @@
 ### Hi there 👋
+<img src='https://fi.pinterest.com/pin/605100899931977836/' alt='nice' width='300'/>
 
-<!--
-**lina-ova/lina-ova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
