@@ -1,7 +1,5 @@
 # Oh, hi there, I'm [Polina!](https://github.com/lina-ova) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<br/><br/>
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
   
 - :telescope: I'm currently studying Computer Science at University of Helsinki 💻
